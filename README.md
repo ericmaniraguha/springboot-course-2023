@@ -29,3 +29,7 @@ This documentation provides an overview of the development process and features 
 - [21. Solution](#21-solution)
 - [22. Testing](#22-testing)
 - [23. Packaging and Running Application](#23-packaging-and-running-application)
+
+
+
+![image](https://github.com/ericmaniraguha/springboot-course-2023/assets/44385819/a9659dc5-bd3d-4932-95d6-e1d09f7f0e0b)
