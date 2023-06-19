@@ -1,9 +1,6 @@
-# springboot-course-2023
 
-# Spring Boot Application Documentation
-
+# spring-boot-2023 -Application Documentation
 This documentation provides an overview of the development process and features implemented in the Spring Boot application.
-
 ## Table of Contents
 
 - [1. Project Setup](#1-project-setup)
