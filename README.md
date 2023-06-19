@@ -5,7 +5,7 @@ This documentation provides an overview of the development process and features 
 
 - [1. Project Setup](#1-project-setup)
   - [1.1 Spring Initializr](#11-spring-initializr)
-  - [1.2 IntelliJ](#12-intellij)
+  - [1.2 IntelliJ](#12-intellij) or Other IDE for java
 
 - [2. Starting The Server](#2-starting-the-server)
 - [3. Simple API with Spring Boot](#3-simple-api-with-spring-boot)
